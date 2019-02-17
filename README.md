@@ -1,6 +1,6 @@
-# This is Drumpf's Brain
+# Drumpf's Brain
 
-Drumpf's brain is a semantic "simulator" which allows a user to "synthesize" imagery from the dcouments generated online by President Donald J. Trump.
+Drumpf's brain is a semantic "simulator" which allows "synthesizing" imagery from Google using restricted topics.
 
-The corpus is based on an online account controlled by Donald Trump. It contains ~35.5K original documents and ~1K document referals, who were written by others.
+Topics are extracted from an semantic knowledge graph of https://mechanics.stackoverflow.com/questions/
 

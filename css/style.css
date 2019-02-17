@@ -1,0 +1,24 @@
+.select,
+.chosen-select,
+.chosen-select-no-single,
+.chosen-select-no-results,
+.chosen-select-deselect,
+.chosen-select-rtl,
+.chosen-select-width {
+  width: 300px;
+}
+
+#content {
+  margin-left: 20px;
+}
+
+#images {
+  margin-top: 10px;
+}
+
+img {
+  object-fit: cover;
+  width:420px;
+  height:420px;
+}
+
